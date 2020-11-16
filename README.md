@@ -18,7 +18,7 @@ Download the following files from the **data** folder:
 * Metadata.csv
 
 
-**Note**: Please download the following files and place them in your`./data` directory.
+**Note**: Please create a folder name "data" on your desktop; and download the following files and place them in your`./data` directory.
 
 
 ## R and RStudio installation
