@@ -256,7 +256,7 @@ cnetplot(orgo) # Network plot of significant terms
 
 R resources:
 * [Bioconductor workflows](https://www.bioconductor.org/packages/release/BiocViews.html#___Workflow)
-* [Reproducibilty and version control](https://github.com/)
+* [Introduction to R, Rstudio, Git and more.](https://software-carpentry.org/lessons/)
 
 Bulk RNA-seq analysis:
 * [DESeq2](https://bioconductor.org/packages/release/bioc/vignettes/DESeq2/inst/doc/DESeq2.html)
